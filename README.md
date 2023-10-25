@@ -1,1 +1,3 @@
 # 2023_hust_bigdataManage
+config文件夹中为实验配置详细操作手册
+operate文件夹中为实验内容编写的code
