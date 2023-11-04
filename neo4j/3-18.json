@@ -1,0 +1,20 @@
+﻿[
+  {
+    "business": {
+"identity": 8338268,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "39",
+"address": "405 Rue Sherbrooke Est",
+"city": "Montréal",
+"latitude": "45.517348",
+"businessid": "I3UkP4Mmp0cmfe3vTev0jw",
+"name": "Sushi 999",
+"stars": "2.5",
+"longitude": "-73.5677004"
+      }
+    }
+  }
+]

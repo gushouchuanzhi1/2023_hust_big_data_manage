@@ -1,0 +1,42 @@
+﻿[
+  {
+    "name": "Starbucks",
+    "cnt": 1066
+  },
+  {
+    "name": "McDonald's",
+    "cnt": 806
+  },
+  {
+    "name": "Subway",
+    "cnt": 768
+  },
+  {
+    "name": "Tim Hortons",
+    "cnt": 333
+  },
+  {
+    "name": "Pizza Hut",
+    "cnt": 320
+  },
+  {
+    "name": "Taco Bell",
+    "cnt": 313
+  },
+  {
+    "name": "Burger King",
+    "cnt": 302
+  },
+  {
+    "name": "Walgreens",
+    "cnt": 301
+  },
+  {
+    "name": "Wendy's",
+    "cnt": 294
+  },
+  {
+    "name": "The UPS Store",
+    "cnt": 279
+  }
+]

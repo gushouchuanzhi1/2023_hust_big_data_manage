@@ -1,0 +1,22 @@
+﻿[
+  {
+    "city": "Toronto",
+    "businesscount": 52
+  },
+  {
+    "city": "Charlotte",
+    "businesscount": 40
+  },
+  {
+    "city": "Phoenix",
+    "businesscount": 39
+  },
+  {
+    "city": "Las Vegas",
+    "businesscount": 39
+  },
+  {
+    "city": "Pittsburgh",
+    "businesscount": 19
+  }
+]

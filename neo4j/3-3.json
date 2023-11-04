@@ -1,0 +1,20 @@
+﻿[
+  {
+    "business": {
+"identity": 8340377,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "106",
+"address": "2800 E Germann Rd",
+"city": "Chandler",
+"latitude": "33.278104",
+"businessid": "6lj2BJ4tJeu7db5asGHQ4w",
+"name": "Slim Chickens",
+"stars": "3.0",
+"longitude": "-111.7924641"
+      }
+    }
+  }
+]

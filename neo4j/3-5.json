@@ -1,0 +1,30 @@
+﻿[
+  {
+    "business.name": "The Buffet",
+    "business.address": "3131 Las Vegas Blvd S"
+  },
+  {
+    "business.name": "MGM Grand Hotel",
+    "business.address": "3799 Las Vegas Blvd S"
+  },
+  {
+    "business.name": "Paris Las Vegas Hotel & Casino",
+    "business.address": "3655 Las Vegas Blvd S"
+  },
+  {
+    "business.name": "Blue Man Group",
+    "business.address": "3900 Las Vegas Blvd S"
+  },
+  {
+    "business.name": "Burger Bar",
+    "business.address": "3930 S Las Vegas Blvd, Ste 121A"
+  },
+  {
+    "business.name": "Bellagio Hotel",
+    "business.address": "3600 S Las Vegas Blvd"
+  },
+  {
+    "business.name": "The Venetian Las Vegas",
+    "business.address": "3355 South Las Vegas Boulevard"
+  }
+]

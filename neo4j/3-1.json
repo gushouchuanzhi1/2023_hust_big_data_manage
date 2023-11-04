@@ -1,0 +1,112 @@
+﻿[
+  {
+    "n": {
+"identity": 546,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Moon Township"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 547,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "montreal"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 548,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Uxbridge"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 549,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Warrensville Hts."
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 550,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Warrensville"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 551,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Phoniex"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 552,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Norton"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 553,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Ahwatukee"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 554,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Eastlake"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 555,
+"labels": [
+        "CityNode"
+      ],
+"properties": {
+"city": "Huntingdon"
+      }
+    }
+  }
+]

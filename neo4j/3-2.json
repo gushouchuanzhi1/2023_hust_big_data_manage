@@ -1,0 +1,650 @@
+﻿[
+  {
+    "business": {
+"identity": 8280839,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "400 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5840997",
+"businessid": "dJ0R-XT78LUQeNHQkD-G9g",
+"name": "Ice Cream Therapy",
+"stars": "3.5",
+"longitude": "-80.225135"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8285578,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "304 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.5823797",
+"businessid": "3gL18eXylqutlzqb6TmB0w",
+"name": "Action Tire Company",
+"stars": "5.0",
+"longitude": "-80.2238749"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8294333,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "18",
+"address": "603 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.5879393",
+"businessid": "Q_0eGl-aElqHKukHvmLdwA",
+"name": "Nelia's Smokehouse",
+"stars": "4.0",
+"longitude": "-80.2248851"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8302165,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "14",
+"address": "755 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5886057",
+"businessid": "Eu_zPTrNVAXkpdSxf7CJ2w",
+"name": "K & N Restaurant",
+"stars": "4.5",
+"longitude": "-80.2291033"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8315849,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "663 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5876498",
+"businessid": "Yjf0i2J9q52dYIT8UVGT3g",
+"name": "Heritage Floral Shoppe",
+"stars": "4.5",
+"longitude": "-80.2284934"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8318677,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "5",
+"address": "598 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5865326",
+"businessid": "y3IVqEFHmrkgVKj2x1Ci4w",
+"name": "Off the Hook Exotics",
+"stars": "4.0",
+"longitude": "-80.2269877"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8320756,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "32",
+"address": "1007 Merchant St",
+"city": "Ambridge",
+"latitude": "40.592077",
+"businessid": "729grSa1Wsn-hfv7D5uOxg",
+"name": "Pizza House",
+"stars": "4.5",
+"longitude": "-80.230377"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8329119,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "5",
+"address": "1301 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5957806",
+"businessid": "rdHO0LkiNe6s3716hPuQXQ",
+"name": "Firehouse Lounge",
+"stars": "4.0",
+"longitude": "-80.2307347"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8357785,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "207 12th St",
+"city": "Ambridge",
+"latitude": "40.5947755",
+"businessid": "iJhb_2JL1uIbIRYUl41uVg",
+"name": "Pucktastic Auto Detailing",
+"stars": "5.0",
+"longitude": "-80.23137"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8370176,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "6",
+"address": "1601 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.5992447",
+"businessid": "7xRbOtZUuw7DxOWrHeaanw",
+"name": "Annie Lee's Southern Kitchen",
+"stars": "4.5",
+"longitude": "-80.2264719"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8373574,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "1327 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5963269148",
+"businessid": "2_7lYF6P2cYKnSiPhhVyPQ",
+"name": "Orbit Inn",
+"stars": "3.0",
+"longitude": "-80.2308549732"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8377587,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "1006 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5919259",
+"businessid": "NHhzHVKVizOvA61AyN-dSw",
+"name": "Ambridge Wholesale Tire",
+"stars": "4.5",
+"longitude": "-80.2298767"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8387754,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "5",
+"address": "500 Ohio River Blvd",
+"city": "Ambridge",
+"latitude": "40.584188",
+"businessid": "EZ9zSk4ld27LwgfANoF4VA",
+"name": "Ambridge Do It Best",
+"stars": "3.5",
+"longitude": "-80.228628"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8390040,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "8",
+"address": "1521 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5981944",
+"businessid": "ftx72aqADrNYmOlMytdtCg",
+"name": "Maid On The Spot",
+"stars": "4.5",
+"longitude": "-80.2307852"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8396994,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "7",
+"address": "1204 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5948509",
+"businessid": "0EyRe-VkW8gYxxZ7NCQXeQ",
+"name": "Fox's Pizza Den",
+"stars": "4.5",
+"longitude": "-80.2302906"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8398666,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "9",
+"address": "603 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.58792",
+"businessid": "4mpSNvmyG89Uqy2ahP4JMQ",
+"name": "Tex-Mix Restaurant",
+"stars": "3.5",
+"longitude": "-80.22492"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8407571,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "5",
+"address": "572 Merchant St",
+"city": "Ambridge",
+"latitude": "40.586411",
+"businessid": "RdEb3U0CDIXElVJe3w5n6g",
+"name": "Stangl's Bakery",
+"stars": "4.0",
+"longitude": "-80.2268813"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8410826,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "703 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5880106",
+"businessid": "tTDxa8OzmxUkpVifQ-cEWw",
+"name": "Ni's Wok",
+"stars": "3.0",
+"longitude": "-80.2285805"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8413034,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "2 Merriman Rd",
+"city": "Ambridge",
+"latitude": "40.5929762",
+"businessid": "pcbVl6ZHDOJHsnetY0rJEQ",
+"name": "Stonebridge Farm Landscaping & Nursery",
+"stars": "3.0",
+"longitude": "-80.200609"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8417805,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "68",
+"address": "939 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5913083",
+"businessid": "N92Pbr2ygKDLkjmr-4BAPw",
+"name": "Bridgetown Taphouse",
+"stars": "4.5",
+"longitude": "-80.2302252"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8417833,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "916 Merchant St",
+"city": "Ambridge",
+"latitude": "40.590541",
+"businessid": "gOu6hTevtDeTBNMOjo6fsw",
+"name": "Vape With It",
+"stars": "3.5",
+"longitude": "-80.2299863"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8425524,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "447 Merchant St",
+"city": "Ambridge",
+"latitude": "40.584533",
+"businessid": "zBeUDwWx73QTZ34A1l0adQ",
+"name": "Vocelli Pizza",
+"stars": "2.0",
+"longitude": "-80.2261685"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8442289,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "9",
+"address": "501 Glenwood Ave",
+"city": "Ambridge",
+"latitude": "40.5858434",
+"businessid": "EOmRHPvzR88a5R2j2uD0cQ",
+"name": "Caffe 501",
+"stars": "4.5",
+"longitude": "-80.2248335"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8443814,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "811 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5893936",
+"businessid": "TsusMt8MhyWaQOVL-MLnjA",
+"name": "Mikush Home Appliance Center",
+"stars": "3.5",
+"longitude": "-80.2295826"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8445334,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "511 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5853071",
+"businessid": "c_3u2TfMWtt8OlRFYtVo_Q",
+"name": "Tom's Old Country Store",
+"stars": "5.0",
+"longitude": "-80.2267556"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8466542,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "3",
+"address": "816 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5895631",
+"businessid": "LHd0Y_0tIWWPvRqDb2b74Q",
+"name": "Fred's Divot",
+"stars": "2.5",
+"longitude": "-80.2292503"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8471425,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "6",
+"address": "70 Beaver St",
+"city": "Ambridge",
+"latitude": "40.5798618",
+"businessid": "lawYwEXAE-Sq2nf6co7aBg",
+"name": "Hark's Place",
+"stars": "4.0",
+"longitude": "-80.2209408"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8481574,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "5",
+"address": "1307 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5961054",
+"businessid": "yyGzYDh0Qa2o8vUGMEjDRA",
+"name": "Rivertown Antiques",
+"stars": "4.0",
+"longitude": "-80.230955"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8483800,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "10",
+"address": "1101 Merchant St",
+"city": "Ambridge",
+"latitude": "40.593082",
+"businessid": "KQrgpqBmIsBbdAn6CnfgCA",
+"name": "Tick Tock Bar & Cafe",
+"stars": "3.5",
+"longitude": "-80.2308461"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8487699,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "8",
+"address": "282 4th St",
+"city": "Ambridge",
+"latitude": "40.5832161",
+"businessid": "t_EiW3FlMnFTHyoeVU79xg",
+"name": "Rook's East Side Saloon",
+"stars": "3.0",
+"longitude": "-80.2256163"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8488436,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "48",
+"address": "463 Maplewood Ave",
+"city": "Ambridge",
+"latitude": "40.5844635",
+"businessid": "-InU2nAbC9AuS-Um2Cowgw",
+"name": "Maple Restaurant",
+"stars": "4.0",
+"longitude": "-80.227219"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8494590,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "1507 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.5983062413",
+"businessid": "XJfvPt-8f-6d5Foaz_HYLQ",
+"name": "Breakfast Shoppe",
+"stars": "4.5",
+"longitude": "-80.2264239639"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8498099,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "11",
+"address": "499 Merchant St",
+"city": "Ambridge",
+"latitude": "40.5850165172",
+"businessid": "KLptkOv3OiNSTU4unZv9Sg",
+"name": "Little Athens Catering",
+"stars": "4.5",
+"longitude": "-80.2263106406"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8509757,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "4",
+"address": "1601 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.599344",
+"businessid": "GI1WxFbY9tJ9-ChRrwnrzg",
+"name": "The Stuffed Pepper",
+"stars": "4.5",
+"longitude": "-80.226543"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8511855,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "28",
+"address": "618 Duss Ave",
+"city": "Ambridge",
+"latitude": "40.5882557",
+"businessid": "muFJIZKZwbAfy_pEFKF_pw",
+"name": "Frank's Pizzeria",
+"stars": "4.5",
+"longitude": "-80.2245285"
+      }
+    }
+  },
+  {
+    "business": {
+"identity": 8513510,
+"labels": [
+        "BusinessNode"
+      ],
+"properties": {
+"reviewcount": "6",
+"address": "270 Sixteenth St",
+"city": "Ambridge",
+"latitude": "40.5927447",
+"businessid": "xM8dVGLkYaL94EuAIkjMEA",
+"name": "Old Economy Village",
+"stars": "5.0",
+"longitude": "-80.2321761"
+      }
+    }
+  }
+]
